@@ -5,6 +5,7 @@
 - [nvm](https://github.com/coreybutler/nvm-windows)
 - [VS Code](https://code.visualstudio.com/#alt-downloads)
 - [Android Studio](https://developer.android.com/studio)
+- [Docker](https://www.docker.com/)
 
 # Commands
 >## Set Execution Policy to RemoteSigned
