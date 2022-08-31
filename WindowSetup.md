@@ -6,7 +6,6 @@
 - [VS Code](https://code.visualstudio.com/#alt-downloads)
 - [Android Studio](https://developer.android.com/studio)
 - [Docker](https://www.docker.com/)
-- [PowerShell](https://github.com/PowerShell/PowerShell/releases)
 
 # Commands
 >## Set Execution Policy to RemoteSigned
