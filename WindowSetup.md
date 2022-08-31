@@ -29,4 +29,4 @@
 >## Install Ionic CLi
 >`npm install -g @ionic/cli;`
 >## Install Angular CLi
->npm install -g @angular/cli
+>`npm install -g @angular/cli`
