@@ -28,4 +28,5 @@
 >`ncu -g;npm -g update;`
 >## Install Ionic CLi
 >`npm install -g @ionic/cli;`
-
+>## Install Angular CLi
+>npm install -g @angular/cli
