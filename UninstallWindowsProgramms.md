@@ -63,7 +63,7 @@
 # Get-AppxPackage -AllUsers  Microsoft.Win32WebViewHost | Remove-AppxPackage ;
 # Get-AppxPackage -AllUsers  Microsoft.Windows.Apprep.ChxApp | Remove-AppxPackage ;
 Get-AppxPackage -AllUsers  Microsoft.WindowsAlarms | Remove-AppxPackage ;
-Get-AppxPackage -AllUsers  Microsoft.Wallet | Remove-AppxPackage ;
+# Get-AppxPackage -AllUsers  Microsoft.Wallet | Remove-AppxPackage ;
 # Get-AppxPackage -AllUsers  Microsoft.WebMediaExtensions | Remove-AppxPackage ;
 # Get-AppxPackage -AllUsers  Microsoft.VP9VideoExtensions | Remove-AppxPackage ;
 # Get-AppxPackage -AllUsers  RealtekSemiconductorCorp.RealtekAudioControl | Remove-AppxPackage ;
