@@ -5,7 +5,7 @@
 - [nvm](https://github.com/coreybutler/nvm-windows)
 - [VS Code](https://code.visualstudio.com/#alt-downloads)
 - [Android Studio](https://developer.android.com/studio)
-- wsl --install
+- `wsl --install;wsl --set-default-version 2;`
 - [Docker](https://www.docker.com/)
 
 # Commands
