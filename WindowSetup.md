@@ -20,7 +20,7 @@
 >## Install node
 >`nvm install lts;`
 >## Use a particular node node version 
->`nvm use <LatestNodeVersion>;`
+>`nvm use lts;`
 >## Check node & npm versions
 >`node -v ; npm -v;`
 >## Update npm to latest
