@@ -15,6 +15,8 @@
 >`code C:\Users\<Username>\AppData\Roaming\Microsoft\Windows\PowerShell\PSReadLine\ConsoleHost_history.txt;`
 >## Setup Git
 >`git config --global user.email "<Email>";git config --global user.name "<Name>";`
+>>## Check avalable node versions
+>`nvm list available;`
 >## Install node
 >`nvm install lts;`
 >## Use a particular node node version 
