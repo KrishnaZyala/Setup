@@ -9,13 +9,21 @@ if %errorlevel% neq 0 (
     exit /b 1
 )
 
-rem Get linkPath and targetPath from command line arguments
-set "linkPath=%1"
-set "targetPath=%2"
+rem Prompt user for linkPath
+set /p linkPath=Enter the path for the symbolic link:
 
-rem Check if both arguments are provided
+rem Prompt user for targetPath
+set /p targetPath=Enter the target path:
+
+rem Check if both paths are provided
 if "%linkPath%"=="" (
-    echo Usage: %0 ^<linkPath^> ^<targetPath^>
+    echo Link path is not provided. Exiting...
+    pause
+    exit /b 1
+)
+
+if "%targetPath%"=="" (
+    echo Target path is not provided. Exiting...
     pause
     exit /b 1
 )
